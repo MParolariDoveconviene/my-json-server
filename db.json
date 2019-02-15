@@ -1,0 +1,16 @@
+{
+  "flyers": [
+    {
+      "id": 123456,
+      "title": "First Flyer"
+    },
+    {
+      "id": 123457,
+      "title": "Second Flyer"
+    },
+    {
+      "id": 123458,
+      "title": "Third Flyer"
+    }
+  ]
+}
